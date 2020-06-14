@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1.5; font-weight: inherit; }
 
 h1,h2,h3{ font-family: 'Roboto', sans-serif; }
 
-p{ line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #777; }
+p{ line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #414142; }
 
 h1{ font-size: 4em; line-height: 1; }
 h2{ font-size: 2.2em; line-height: 1.1; }
@@ -87,7 +87,7 @@ b.max-bold{ font-weight: 700; }
 .section .heading{ margin-bottom: 60px; }
 
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
-	margin-bottom: 20px; display: block; background: #DD3224; }
+	margin-bottom: 20px; display: block; background: #f26e78; }
 	
 .margin-t-10{ margin-top: 10px; }
 
@@ -96,11 +96,11 @@ b.max-bold{ font-weight: 700; }
 
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 
-.font-red{ color: #DB4539; }
+.font-red{ color: #f26e78; }
 
 .font-semi-white{ color: #ddd; }
 
-.font-lite-black{ color: #999; }
+.font-lite-black{ color: #414142; }
 
 
 /* ---------------------------------
@@ -159,7 +159,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 5. PORFOLIO SECTION
 --------------------------------- */
 
-.portfolio-section{ padding-bottom: 0; }
+.portfolio-section{ padding-bottom: 0; background-color: #c9c9cf; }
 
 .portfolio-section .portfolioFilter{ margin-top: 60px; color: #666; }
 
@@ -198,7 +198,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 7. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background: #333333; color: #fff; }
+.experience-section{ background: #414142; color: #c9c9cf; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; padding-left: 20px; }
 
